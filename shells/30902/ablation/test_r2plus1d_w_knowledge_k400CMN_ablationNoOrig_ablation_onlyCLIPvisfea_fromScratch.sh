@@ -1,0 +1,22 @@
+cd few-shot-video-classification/ && CUDA_VISIBLE_DEVICES=0 python tsl_fsv_w_knowledge.py --test_video_path  /media/nvme1/linhanxi/data/k400/k400_CMNsplit/ \
+--manual_seed 10 \
+--test_list_path data/kinetics100/data_splits/meta_test_filtered.txt \
+--dataset kinetics100 \
+--train_crop random \
+--n_samples_for_each_video 10 \
+--n_val_samples 10 \
+--clip_model r2plus1d_w_knowledge \
+--clip_model_depth 34 \
+--n_threads 4 \
+--result_path /media/hdd/sda1/linhanxi/exp/few-shot-vid-cls/test_kinetics400CMN_w_knowledge_fromScratch/v0.3_ablation_origBugfix_ablation_onlyCLIPvisfea_drop0.9_wd4_ep20_10w5s_metaTest \
+--shot 5 \
+--test_way 10 \
+--query 5 \
+--emb_dim 512 \
+--batch_size 64 \
+--lr 0.01 \
+--CLIP_visual_fea_reg "/home/linhanxi/home_data/fea_clip_ViT-B-16_unfolded_24frms/*" \
+--proposals_fea_pth /media/hdd/sda1/linhanxi/data/CLIP_related/action_knowledge/ssv2OTAM/proposal_fea_cache.pt \
+--CLIP_visual_arch "ViT-B/16"  --clip_visfea_sampleNum 24 --n_finetune_classes 64 --is_w_knowledge \
+--is_amp --ablation_removeOrig --nepoch 20 --this_launch_script $0 --testtime_dropout 0 --testtime_weight_decay 1e-10 --temporal_modeling linear_cls --ablation_onlyCLIPvisfea #--CLIP_visual_fea_preload
+# --resume_path /media/hdd/sda1/linhanxi/exp/few-shot-vid-cls/finetune_kinetics/w_knowledge/v0.3_clsBugFix_embedOrig_dropout0.9_ablation_origBugfix/save_6.pth \
