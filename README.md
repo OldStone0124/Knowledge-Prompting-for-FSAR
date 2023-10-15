@@ -4,7 +4,7 @@ We upload the code of our method of text proposal generation and few-shot action
 
 ### text proposal generation
 
-![image-20231015121419450](C:\Users\syh\AppData\Roaming\Typora\typora-user-images\image-20231015121419450.png)
+![image text](https://github.com/OldStone0124/Knowledge-Prompting-for-FSAR/blob/main/pictures/text_proposals.png)
 
 * Sentence Template
 
@@ -18,6 +18,6 @@ We upload the code of our method of text proposal generation and few-shot action
 
 ### few-shot action recognition
 
-![image-20231015121406980](C:\Users\syh\AppData\Roaming\Typora\typora-user-images\image-20231015121406980.png)	
+![image text](https://github.com/OldStone0124/Knowledge-Prompting-for-FSAR/blob/main/pictures/model.png)	
 
 "finetune_metatrain_w_knowledge.py" and  "tsl_fsv_w_knowledge.py" are used for training and testing, respectively. The main module of our temporal modeling network is shown in "building_model_w_knowledge.py" and the data split methods of the six datasets are shown in "data/".
