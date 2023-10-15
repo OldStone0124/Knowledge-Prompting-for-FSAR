@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python NER/train.py /media/sda1/shiyuheng/UN-NER/gym/model/gym_V0.1_DEBUG/ /media/sda1/shiyuheng/UN-NER/annotations/all.jsonl

@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python NER/inference.py /media/sda1/linhanxi/exp/NER/BERT_V0/

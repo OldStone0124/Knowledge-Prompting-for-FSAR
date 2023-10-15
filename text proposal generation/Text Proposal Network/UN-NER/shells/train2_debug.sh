@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=1 python NER/train.py /media/sda1/linhanxi/exp/NER/BERT_V0.1_DEBUG/ annotations/5_20220430_2.jsonl

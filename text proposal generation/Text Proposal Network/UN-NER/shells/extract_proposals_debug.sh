@@ -1,0 +1,2 @@
+CUDA_VISIBLE_DEVICES=1 python NER/extract_proposals.py /media/sda1/linhanxi/exp/NER/BERT_V0.1/ /media/sda1/linhanxi/exp/NER/extract_proposals_V0.1_DEBUG/  --subtitles_regex \
+"/media/sda1/shiyuheng/learning_proposals/subtitle_data/diving_subtitles/*.txt"

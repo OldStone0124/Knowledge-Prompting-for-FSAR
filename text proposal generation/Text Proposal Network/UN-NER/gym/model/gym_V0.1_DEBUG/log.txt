@@ -1,0 +1,910 @@
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.00      0.00      0.00        34
+    part_level_proposal       0.04      0.08      0.05        50
+
+              micro avg       0.04      0.05      0.04        84
+              macro avg       0.02      0.04      0.03        84
+           weighted avg       0.02      0.05      0.03        84
+
+best_metric: 0
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.32      0.24      0.27        34
+    part_level_proposal       0.33      0.54      0.41        50
+
+              micro avg       0.33      0.42      0.37        84
+              macro avg       0.32      0.39      0.34        84
+           weighted avg       0.33      0.42      0.35        84
+
+best_metric: 0.03
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.40      0.50      0.44        34
+    part_level_proposal       0.51      0.62      0.56        50
+
+              micro avg       0.46      0.57      0.51        84
+              macro avg       0.45      0.56      0.50        84
+           weighted avg       0.46      0.57      0.51        84
+
+best_metric: 0.35
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.47      0.56      0.51        34
+    part_level_proposal       0.42      0.50      0.46        50
+
+              micro avg       0.44      0.52      0.48        84
+              macro avg       0.45      0.53      0.49        84
+           weighted avg       0.44      0.52      0.48        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.63      0.56      0.59        34
+    part_level_proposal       0.55      0.72      0.63        50
+
+              micro avg       0.58      0.65      0.61        84
+              macro avg       0.59      0.64      0.61        84
+           weighted avg       0.59      0.65      0.61        84
+
+best_metric: 0.51
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.70      0.62      0.66        34
+    part_level_proposal       0.56      0.70      0.62        50
+
+              micro avg       0.61      0.67      0.64        84
+              macro avg       0.63      0.66      0.64        84
+           weighted avg       0.62      0.67      0.64        84
+
+best_metric: 0.61
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.65      0.59      0.62        34
+    part_level_proposal       0.63      0.74      0.68        50
+
+              micro avg       0.63      0.68      0.66        84
+              macro avg       0.64      0.66      0.65        84
+           weighted avg       0.63      0.68      0.65        84
+
+best_metric: 0.64
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.76      0.65      0.70        34
+    part_level_proposal       0.59      0.72      0.65        50
+
+              micro avg       0.64      0.69      0.67        84
+              macro avg       0.67      0.68      0.67        84
+           weighted avg       0.66      0.69      0.67        84
+
+best_metric: 0.65
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.65      0.65      0.65        34
+    part_level_proposal       0.64      0.78      0.70        50
+
+              micro avg       0.64      0.73      0.68        84
+              macro avg       0.64      0.71      0.67        84
+           weighted avg       0.64      0.73      0.68        84
+
+best_metric: 0.67
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.71      0.65      0.68        34
+    part_level_proposal       0.66      0.76      0.70        50
+
+              micro avg       0.67      0.71      0.69        84
+              macro avg       0.68      0.70      0.69        84
+           weighted avg       0.68      0.71      0.69        84
+
+best_metric: 0.68
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.61      0.65      0.63        34
+    part_level_proposal       0.59      0.76      0.67        50
+
+              micro avg       0.60      0.71      0.65        84
+              macro avg       0.60      0.70      0.65        84
+           weighted avg       0.60      0.71      0.65        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.65      0.65      0.65        34
+    part_level_proposal       0.63      0.80      0.71        50
+
+              micro avg       0.64      0.74      0.69        84
+              macro avg       0.64      0.72      0.68        84
+           weighted avg       0.64      0.74      0.68        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.63      0.65      0.64        34
+    part_level_proposal       0.65      0.78      0.71        50
+
+              micro avg       0.64      0.73      0.68        84
+              macro avg       0.64      0.71      0.67        84
+           weighted avg       0.64      0.73      0.68        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.68      0.62      0.65        34
+    part_level_proposal       0.61      0.72      0.66        50
+
+              micro avg       0.63      0.68      0.66        84
+              macro avg       0.64      0.67      0.65        84
+           weighted avg       0.64      0.68      0.65        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.63      0.65      0.64        34
+    part_level_proposal       0.67      0.78      0.72        50
+
+              micro avg       0.66      0.73      0.69        84
+              macro avg       0.65      0.71      0.68        84
+           weighted avg       0.65      0.73      0.69        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.60      0.62      0.61        34
+    part_level_proposal       0.65      0.78      0.71        50
+
+              micro avg       0.63      0.71      0.67        84
+              macro avg       0.62      0.70      0.66        84
+           weighted avg       0.63      0.71      0.67        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.65      0.65      0.65        34
+    part_level_proposal       0.66      0.78      0.72        50
+
+              micro avg       0.66      0.73      0.69        84
+              macro avg       0.65      0.71      0.68        84
+           weighted avg       0.66      0.73      0.69        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.66      0.62      0.64        34
+    part_level_proposal       0.62      0.74      0.67        50
+
+              micro avg       0.63      0.69      0.66        84
+              macro avg       0.64      0.68      0.65        84
+           weighted avg       0.63      0.69      0.66        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.65      0.65      0.65        34
+    part_level_proposal       0.62      0.74      0.67        50
+
+              micro avg       0.63      0.70      0.66        84
+              macro avg       0.63      0.69      0.66        84
+           weighted avg       0.63      0.70      0.66        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.69      0.65      0.67        34
+    part_level_proposal       0.64      0.74      0.69        50
+
+              micro avg       0.66      0.70      0.68        84
+              macro avg       0.66      0.69      0.68        84
+           weighted avg       0.66      0.70      0.68        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.47      0.56      0.51        34
+    part_level_proposal       0.66      0.78      0.72        50
+
+              micro avg       0.59      0.69      0.63        84
+              macro avg       0.57      0.67      0.61        84
+           weighted avg       0.59      0.69      0.63        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.54      0.56      0.55        34
+    part_level_proposal       0.66      0.78      0.72        50
+
+              micro avg       0.62      0.69      0.65        84
+              macro avg       0.60      0.67      0.63        84
+           weighted avg       0.61      0.69      0.65        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.58      0.56      0.57        34
+    part_level_proposal       0.61      0.74      0.67        50
+
+              micro avg       0.60      0.67      0.63        84
+              macro avg       0.59      0.65      0.62        84
+           weighted avg       0.59      0.67      0.63        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.54      0.62      0.58        34
+    part_level_proposal       0.63      0.74      0.68        50
+
+              micro avg       0.59      0.69      0.64        84
+              macro avg       0.58      0.68      0.63        84
+           weighted avg       0.59      0.69      0.64        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.62      0.62      0.62        34
+    part_level_proposal       0.61      0.74      0.67        50
+
+              micro avg       0.61      0.69      0.65        84
+              macro avg       0.61      0.68      0.64        84
+           weighted avg       0.61      0.69      0.65        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.60      0.62      0.61        34
+    part_level_proposal       0.58      0.72      0.64        50
+
+              micro avg       0.59      0.68      0.63        84
+              macro avg       0.59      0.67      0.63        84
+           weighted avg       0.59      0.68      0.63        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.53      0.56      0.54        34
+    part_level_proposal       0.61      0.74      0.67        50
+
+              micro avg       0.58      0.67      0.62        84
+              macro avg       0.57      0.65      0.60        84
+           weighted avg       0.57      0.67      0.62        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.60      0.62      0.61        34
+    part_level_proposal       0.66      0.76      0.70        50
+
+              micro avg       0.63      0.70      0.67        84
+              macro avg       0.63      0.69      0.66        84
+           weighted avg       0.63      0.70      0.67        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.56      0.68      0.61        34
+    part_level_proposal       0.56      0.72      0.63        50
+
+              micro avg       0.56      0.70      0.62        84
+              macro avg       0.56      0.70      0.62        84
+           weighted avg       0.56      0.70      0.62        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.57      0.59      0.58        34
+    part_level_proposal       0.63      0.74      0.68        50
+
+              micro avg       0.61      0.68      0.64        84
+              macro avg       0.60      0.66      0.63        84
+           weighted avg       0.60      0.68      0.64        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.51      0.59      0.55        34
+    part_level_proposal       0.59      0.76      0.67        50
+
+              micro avg       0.56      0.69      0.62        84
+              macro avg       0.55      0.67      0.61        84
+           weighted avg       0.56      0.69      0.62        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.59      0.59      0.59        34
+    part_level_proposal       0.62      0.72      0.67        50
+
+              micro avg       0.61      0.67      0.64        84
+              macro avg       0.60      0.65      0.63        84
+           weighted avg       0.61      0.67      0.63        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.54      0.59      0.56        34
+    part_level_proposal       0.61      0.74      0.67        50
+
+              micro avg       0.58      0.68      0.63        84
+              macro avg       0.57      0.66      0.62        84
+           weighted avg       0.58      0.68      0.62        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.60      0.53      0.56        34
+    part_level_proposal       0.54      0.72      0.62        50
+
+              micro avg       0.56      0.64      0.60        84
+              macro avg       0.57      0.62      0.59        84
+           weighted avg       0.56      0.64      0.59        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.54      0.62      0.58        34
+    part_level_proposal       0.63      0.74      0.68        50
+
+              micro avg       0.59      0.69      0.64        84
+              macro avg       0.58      0.68      0.63        84
+           weighted avg       0.59      0.69      0.64        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.55      0.62      0.58        34
+    part_level_proposal       0.61      0.72      0.66        50
+
+              micro avg       0.59      0.68      0.63        84
+              macro avg       0.58      0.67      0.62        84
+           weighted avg       0.59      0.68      0.63        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.57      0.62      0.59        34
+    part_level_proposal       0.64      0.74      0.69        50
+
+              micro avg       0.61      0.69      0.65        84
+              macro avg       0.60      0.68      0.64        84
+           weighted avg       0.61      0.69      0.65        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.50      0.62      0.55        34
+    part_level_proposal       0.62      0.72      0.67        50
+
+              micro avg       0.57      0.68      0.62        84
+              macro avg       0.56      0.67      0.61        84
+           weighted avg       0.57      0.68      0.62        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.60      0.62      0.61        34
+    part_level_proposal       0.62      0.72      0.67        50
+
+              micro avg       0.61      0.68      0.64        84
+              macro avg       0.61      0.67      0.64        84
+           weighted avg       0.61      0.68      0.64        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.57      0.62      0.59        34
+    part_level_proposal       0.63      0.74      0.68        50
+
+              micro avg       0.60      0.69      0.64        84
+              macro avg       0.60      0.68      0.64        84
+           weighted avg       0.60      0.69      0.64        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.53      0.62      0.57        34
+    part_level_proposal       0.60      0.70      0.65        50
+
+              micro avg       0.57      0.67      0.62        84
+              macro avg       0.56      0.66      0.61        84
+           weighted avg       0.57      0.67      0.62        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.57      0.62      0.59        34
+    part_level_proposal       0.59      0.70      0.64        50
+
+              micro avg       0.58      0.67      0.62        84
+              macro avg       0.58      0.66      0.62        84
+           weighted avg       0.58      0.67      0.62        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.56      0.65      0.60        34
+    part_level_proposal       0.59      0.72      0.65        50
+
+              micro avg       0.58      0.69      0.63        84
+              macro avg       0.58      0.68      0.63        84
+           weighted avg       0.58      0.69      0.63        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.54      0.62      0.58        34
+    part_level_proposal       0.63      0.76      0.69        50
+
+              micro avg       0.60      0.70      0.64        84
+              macro avg       0.59      0.69      0.63        84
+           weighted avg       0.59      0.70      0.64        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.58      0.62      0.60        34
+    part_level_proposal       0.65      0.78      0.71        50
+
+              micro avg       0.62      0.71      0.67        84
+              macro avg       0.62      0.70      0.65        84
+           weighted avg       0.62      0.71      0.66        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.57      0.62      0.59        34
+    part_level_proposal       0.62      0.74      0.67        50
+
+              micro avg       0.60      0.69      0.64        84
+              macro avg       0.59      0.68      0.63        84
+           weighted avg       0.60      0.69      0.64        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.58      0.62      0.60        34
+    part_level_proposal       0.63      0.74      0.68        50
+
+              micro avg       0.61      0.69      0.65        84
+              macro avg       0.61      0.68      0.64        84
+           weighted avg       0.61      0.69      0.65        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.58      0.62      0.60        34
+    part_level_proposal       0.64      0.74      0.69        50
+
+              micro avg       0.62      0.69      0.65        84
+              macro avg       0.61      0.68      0.64        84
+           weighted avg       0.62      0.69      0.65        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.51      0.62      0.56        34
+    part_level_proposal       0.64      0.74      0.69        50
+
+              micro avg       0.59      0.69      0.63        84
+              macro avg       0.58      0.68      0.62        84
+           weighted avg       0.59      0.69      0.63        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.63      0.65      0.64        34
+    part_level_proposal       0.64      0.74      0.69        50
+
+              micro avg       0.63      0.70      0.67        84
+              macro avg       0.63      0.69      0.66        84
+           weighted avg       0.63      0.70      0.67        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.58      0.62      0.60        34
+    part_level_proposal       0.64      0.76      0.70        50
+
+              micro avg       0.62      0.70      0.66        84
+              macro avg       0.61      0.69      0.65        84
+           weighted avg       0.62      0.70      0.66        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.60      0.62      0.61        34
+    part_level_proposal       0.66      0.76      0.70        50
+
+              micro avg       0.63      0.70      0.67        84
+              macro avg       0.63      0.69      0.66        84
+           weighted avg       0.63      0.70      0.67        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.58      0.62      0.60        34
+    part_level_proposal       0.66      0.76      0.70        50
+
+              micro avg       0.63      0.70      0.66        84
+              macro avg       0.62      0.69      0.65        84
+           weighted avg       0.63      0.70      0.66        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.54      0.62      0.58        34
+    part_level_proposal       0.60      0.72      0.65        50
+
+              micro avg       0.58      0.68      0.62        84
+              macro avg       0.57      0.67      0.61        84
+           weighted avg       0.58      0.68      0.62        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.56      0.56      0.56        34
+    part_level_proposal       0.60      0.76      0.67        50
+
+              micro avg       0.59      0.68      0.63        84
+              macro avg       0.58      0.66      0.62        84
+           weighted avg       0.59      0.68      0.63        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.56      0.59      0.57        34
+    part_level_proposal       0.61      0.74      0.67        50
+
+              micro avg       0.59      0.68      0.63        84
+              macro avg       0.58      0.66      0.62        84
+           weighted avg       0.59      0.68      0.63        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.59      0.59      0.59        34
+    part_level_proposal       0.63      0.74      0.68        50
+
+              micro avg       0.61      0.68      0.64        84
+              macro avg       0.61      0.66      0.63        84
+           weighted avg       0.61      0.68      0.64        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.57      0.59      0.58        34
+    part_level_proposal       0.66      0.78      0.72        50
+
+              micro avg       0.63      0.70      0.66        84
+              macro avg       0.62      0.68      0.65        84
+           weighted avg       0.62      0.70      0.66        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.59      0.59      0.59        34
+    part_level_proposal       0.53      0.62      0.57        50
+
+              micro avg       0.55      0.61      0.58        84
+              macro avg       0.56      0.60      0.58        84
+           weighted avg       0.55      0.61      0.58        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.57      0.62      0.59        34
+    part_level_proposal       0.61      0.76      0.68        50
+
+              micro avg       0.60      0.70      0.64        84
+              macro avg       0.59      0.69      0.64        84
+           weighted avg       0.59      0.70      0.64        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.63      0.65      0.64        34
+    part_level_proposal       0.64      0.76      0.70        50
+
+              micro avg       0.64      0.71      0.67        84
+              macro avg       0.64      0.70      0.67        84
+           weighted avg       0.64      0.71      0.67        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.58      0.65      0.61        34
+    part_level_proposal       0.64      0.74      0.69        50
+
+              micro avg       0.61      0.70      0.66        84
+              macro avg       0.61      0.69      0.65        84
+           weighted avg       0.61      0.70      0.66        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.69      0.74      0.71        34
+    part_level_proposal       0.65      0.72      0.69        50
+
+              micro avg       0.67      0.73      0.70        84
+              macro avg       0.67      0.73      0.70        84
+           weighted avg       0.67      0.73      0.70        84
+
+best_metric: 0.69
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.57      0.71      0.63        34
+    part_level_proposal       0.65      0.72      0.69        50
+
+              micro avg       0.62      0.71      0.66        84
+              macro avg       0.61      0.71      0.66        84
+           weighted avg       0.62      0.71      0.66        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.65      0.65      0.65        34
+    part_level_proposal       0.58      0.76      0.66        50
+
+              micro avg       0.61      0.71      0.66        84
+              macro avg       0.62      0.70      0.65        84
+           weighted avg       0.61      0.71      0.66        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.55      0.62      0.58        34
+    part_level_proposal       0.66      0.78      0.72        50
+
+              micro avg       0.62      0.71      0.66        84
+              macro avg       0.61      0.70      0.65        84
+           weighted avg       0.62      0.71      0.66        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.55      0.65      0.59        34
+    part_level_proposal       0.69      0.74      0.71        50
+
+              micro avg       0.63      0.70      0.66        84
+              macro avg       0.62      0.69      0.65        84
+           weighted avg       0.63      0.70      0.66        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.63      0.65      0.64        34
+    part_level_proposal       0.65      0.72      0.69        50
+
+              micro avg       0.64      0.69      0.67        84
+              macro avg       0.64      0.68      0.66        84
+           weighted avg       0.64      0.69      0.67        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.60      0.62      0.61        34
+    part_level_proposal       0.65      0.74      0.69        50
+
+              micro avg       0.63      0.69      0.66        84
+              macro avg       0.62      0.68      0.65        84
+           weighted avg       0.63      0.69      0.66        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.63      0.65      0.64        34
+    part_level_proposal       0.65      0.74      0.69        50
+
+              micro avg       0.64      0.70      0.67        84
+              macro avg       0.64      0.69      0.66        84
+           weighted avg       0.64      0.70      0.67        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.59      0.65      0.62        34
+    part_level_proposal       0.65      0.74      0.69        50
+
+              micro avg       0.63      0.70      0.66        84
+              macro avg       0.62      0.69      0.66        84
+           weighted avg       0.63      0.70      0.66        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.55      0.65      0.59        34
+    part_level_proposal       0.66      0.74      0.70        50
+
+              micro avg       0.61      0.70      0.66        84
+              macro avg       0.61      0.69      0.65        84
+           weighted avg       0.62      0.70      0.66        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.55      0.68      0.61        34
+    part_level_proposal       0.66      0.76      0.70        50
+
+              micro avg       0.61      0.73      0.66        84
+              macro avg       0.60      0.72      0.65        84
+           weighted avg       0.61      0.73      0.66        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.56      0.65      0.60        34
+    part_level_proposal       0.68      0.76      0.72        50
+
+              micro avg       0.63      0.71      0.67        84
+              macro avg       0.62      0.70      0.66        84
+           weighted avg       0.63      0.71      0.67        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.56      0.65      0.60        34
+    part_level_proposal       0.68      0.76      0.72        50
+
+              micro avg       0.63      0.71      0.67        84
+              macro avg       0.62      0.70      0.66        84
+           weighted avg       0.63      0.71      0.67        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.61      0.65      0.63        34
+    part_level_proposal       0.66      0.74      0.70        50
+
+              micro avg       0.64      0.70      0.67        84
+              macro avg       0.64      0.69      0.66        84
+           weighted avg       0.64      0.70      0.67        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.61      0.68      0.64        34
+    part_level_proposal       0.66      0.74      0.70        50
+
+              micro avg       0.64      0.71      0.67        84
+              macro avg       0.63      0.71      0.67        84
+           weighted avg       0.64      0.71      0.67        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.59      0.68      0.63        34
+    part_level_proposal       0.67      0.76      0.71        50
+
+              micro avg       0.64      0.73      0.68        84
+              macro avg       0.63      0.72      0.67        84
+           weighted avg       0.64      0.73      0.68        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.61      0.68      0.64        34
+    part_level_proposal       0.68      0.76      0.72        50
+
+              micro avg       0.65      0.73      0.69        84
+              macro avg       0.64      0.72      0.68        84
+           weighted avg       0.65      0.73      0.69        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.62      0.68      0.65        34
+    part_level_proposal       0.69      0.76      0.72        50
+
+              micro avg       0.66      0.73      0.69        84
+              macro avg       0.66      0.72      0.69        84
+           weighted avg       0.66      0.73      0.69        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.61      0.65      0.63        34
+    part_level_proposal       0.67      0.76      0.71        50
+
+              micro avg       0.65      0.71      0.68        84
+              macro avg       0.64      0.70      0.67        84
+           weighted avg       0.64      0.71      0.68        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.61      0.65      0.63        34
+    part_level_proposal       0.66      0.74      0.70        50
+
+              micro avg       0.64      0.70      0.67        84
+              macro avg       0.64      0.69      0.66        84
+           weighted avg       0.64      0.70      0.67        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.58      0.65      0.61        34
+    part_level_proposal       0.68      0.76      0.72        50
+
+              micro avg       0.64      0.71      0.67        84
+              macro avg       0.63      0.70      0.66        84
+           weighted avg       0.64      0.71      0.67        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.59      0.65      0.62        34
+    part_level_proposal       0.65      0.74      0.69        50
+
+              micro avg       0.63      0.70      0.66        84
+              macro avg       0.62      0.69      0.66        84
+           weighted avg       0.63      0.70      0.66        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.62      0.68      0.65        34
+    part_level_proposal       0.67      0.74      0.70        50
+
+              micro avg       0.65      0.71      0.68        84
+              macro avg       0.65      0.71      0.68        84
+           weighted avg       0.65      0.71      0.68        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.55      0.65      0.59        34
+    part_level_proposal       0.55      0.72      0.63        50
+
+              micro avg       0.55      0.69      0.61        84
+              macro avg       0.55      0.68      0.61        84
+           weighted avg       0.55      0.69      0.61        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.56      0.68      0.61        34
+    part_level_proposal       0.66      0.76      0.70        50
+
+              micro avg       0.62      0.73      0.67        84
+              macro avg       0.61      0.72      0.66        84
+           weighted avg       0.62      0.73      0.67        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.56      0.59      0.57        34
+    part_level_proposal       0.64      0.76      0.70        50
+
+              micro avg       0.61      0.69      0.65        84
+              macro avg       0.60      0.67      0.63        84
+           weighted avg       0.61      0.69      0.65        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.51      0.59      0.55        34
+    part_level_proposal       0.64      0.76      0.70        50
+
+              micro avg       0.59      0.69      0.64        84
+              macro avg       0.58      0.67      0.62        84
+           weighted avg       0.59      0.69      0.64        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.53      0.59      0.56        34
+    part_level_proposal       0.64      0.76      0.70        50
+
+              micro avg       0.60      0.69      0.64        84
+              macro avg       0.59      0.67      0.63        84
+           weighted avg       0.60      0.69      0.64        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.50      0.59      0.54        34
+    part_level_proposal       0.64      0.76      0.70        50
+
+              micro avg       0.59      0.69      0.63        84
+              macro avg       0.57      0.67      0.62        84
+           weighted avg       0.59      0.69      0.63        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.53      0.59      0.56        34
+    part_level_proposal       0.64      0.76      0.70        50
+
+              micro avg       0.60      0.69      0.64        84
+              macro avg       0.59      0.67      0.63        84
+           weighted avg       0.60      0.69      0.64        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.50      0.59      0.54        34
+    part_level_proposal       0.66      0.76      0.70        50
+
+              micro avg       0.59      0.69      0.64        84
+              macro avg       0.58      0.67      0.62        84
+           weighted avg       0.59      0.69      0.64        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.59      0.65      0.62        34
+    part_level_proposal       0.69      0.76      0.72        50
+
+              micro avg       0.65      0.71      0.68        84
+              macro avg       0.64      0.70      0.67        84
+           weighted avg       0.65      0.71      0.68        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.62      0.71      0.66        34
+    part_level_proposal       0.65      0.70      0.67        50
+
+              micro avg       0.63      0.70      0.67        84
+              macro avg       0.63      0.70      0.67        84
+           weighted avg       0.63      0.70      0.67        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.66      0.68      0.67        34
+    part_level_proposal       0.64      0.72      0.68        50
+
+              micro avg       0.65      0.70      0.67        84
+              macro avg       0.65      0.70      0.67        84
+           weighted avg       0.65      0.70      0.67        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.61      0.65      0.63        34
+    part_level_proposal       0.68      0.76      0.72        50
+
+              micro avg       0.65      0.71      0.68        84
+              macro avg       0.64      0.70      0.67        84
+           weighted avg       0.65      0.71      0.68        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.59      0.65      0.62        34
+    part_level_proposal       0.61      0.68      0.64        50
+
+              micro avg       0.60      0.67      0.63        84
+              macro avg       0.60      0.66      0.63        84
+           weighted avg       0.60      0.67      0.63        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.66      0.68      0.67        34
+    part_level_proposal       0.64      0.70      0.67        50
+
+              micro avg       0.64      0.69      0.67        84
+              macro avg       0.65      0.69      0.67        84
+           weighted avg       0.64      0.69      0.67        84
+
+                         precision    recall  f1-score   support
+
+instance_level_proposal       0.63      0.65      0.64        34
+    part_level_proposal       0.64      0.72      0.68        50
+
+              micro avg       0.64      0.69      0.66        84
+              macro avg       0.64      0.68      0.66        84
+           weighted avg       0.64      0.69      0.66        84
+

@@ -1,0 +1,93 @@
+foot,stand on {},vn
+foot,tread on {},vn
+foot,walk with {},vn
+foot,walk to {},vn
+foot,run with {},vn
+foot,run to {},vn
+foot,dribble {},vn
+foot,kick {},vn
+foot,jump down,v
+foot,jump with {},vn
+foot,walk away,v
+foot,crawl,v
+foot,dance,v
+foot,fall down,v
+foot,martial art,v
+foot,not interacting with anything,v
+leg,walk with {},vn
+leg,walk to {},vn
+leg,run with {},vn
+leg,run to {},vn
+leg,jump with {},vn
+leg,is close with {},vn
+leg,straddle,v
+leg,jump down,v
+leg,walk away,v
+leg,bend,v
+leg,kneel,v
+leg,crawl,v
+leg,dance,v
+leg,martial art,v
+leg,not interacting with anything,v
+hip,sit on {},vn
+hip,sit in {},vn
+hip,sit beside {},vn
+hip,be close with {},vn
+hip,bend,v
+hip,not interacting with anything,v
+hand,hold {},vn
+hand,carry {},vn
+hand,reach for {},vn
+hand,touch {},vn
+hand,put on {},vn
+hand,twist {},vn
+hand,wear {},vn
+hand,throw {},vn
+hand,throw out {},vn
+hand,write on {},vn
+hand,point with {},vn
+hand,point to {},vn
+hand,use {} to point to,vn
+hand,press {},vn
+hand,squeeze {},vn
+hand,scratch {},vn
+hand,pinch {},vn
+hand,gesture to {},vn
+hand,push {},vn
+hand,pull {},vn
+hand,pull with {},vn
+hand,wash {},vn
+hand,wash with {},vn
+hand,hold {} in both hands,vn
+hand,lift {},vn
+hand,raise {} (over head),vn
+hand,feed {},vn
+hand,cut with {},vn
+hand,catch with {},vn
+hand,pour into {},vn
+hand,crawl,v
+hand,dance,v
+hand,martial art,v
+hand,not interacting with anything,v
+arm,shoulder carry {},vn
+arm,be close to {},vn
+arm,hug {},vn
+arm,swing,v
+arm,crawl,v
+arm,dance,v
+arm,martial art,v
+arm,not interacting with anything,v
+head,eat {},vn
+head,inspect {},vn
+head,talk with {},vn
+head,talk to {},vn
+head,be close with {},vn
+head,kiss {},vn
+head,put {} over head,vn
+head,lick {},vn
+head,blow {},vn
+head,drink with {},vn
+head,smell {},vn
+head,wear {},vn
+head,listen,v
+head,not interacting with anything,v
